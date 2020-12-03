@@ -3,6 +3,6 @@
 
 Начал проект todo
 
-Создал app main и todo
+Создал app main и todo_item
 
 Закомитил и запушил изменения в GIT
